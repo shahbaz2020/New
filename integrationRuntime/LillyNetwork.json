@@ -1,0 +1,13 @@
+{
+	"name": "LillyNetwork",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Self-hosted integration runtime that has access to the Lilly network. Hosted on ix1adfgwqa.AM.LILLY.com.",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/3de5bb92-ec90-4c7e-af9b-90c3ed1cae76/resourcegroups/BQAZE1IEDNARG01/providers/Microsoft.DataFactory/factories/BQAZE1IEDNADF01/integrationruntimes/LillyNetwork",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
