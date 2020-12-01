@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Web_Failure_Notification",
+				"name": "Web_Failure_Notifications",
 				"type": "WebActivity",
 				"dependsOn": [],
 				"policy": {
