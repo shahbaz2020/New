@@ -1,0 +1,12 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "BQAZE1ISCRPDF01"
+		},
+		"LillyNetwork_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/3de5bb92-ec90-4c7e-af9b-90c3ed1cae76/resourcegroups/BQAZE1IEDNARG01/providers/Microsoft.DataFactory/factories/BQAZE1IEDNADF01/integrationruntimes/LillyNetwork"
+		}
+	}
+}
